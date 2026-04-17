@@ -1,0 +1,17 @@
+{
+  "name": "soury-v3",
+  "version": "3.0.0",
+  "description": "SOURY WhatsApp MD Bot v3 Pair Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SOURY OWNER",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "long": "^5.3.2",
+    "moment-timezone": "^0.5.45",
+    "pino": "^8.17.2"
+  }
+}
